@@ -1,0 +1,26 @@
+{
+	"name": "rapidspare",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:ulmikas/rapidspare.git",
+	"author": "ulmikas@gmail.com",
+	"license": "MIT",
+	"devDependencies": {
+		"babel-core": "^6.18.2",
+		"babel-loader": "^6.2.7",
+		"babel-preset-es2015": "^6.18.0",
+		"css-loader": "^0.26.0",
+		"extract-loader": "^0.1.0",
+		"extract-text-webpack-plugin": "2.0.0-beta.4",
+		"file-loader": "^0.9.0",
+		"html-loader": "^0.4.4",
+		"node-sass": "^3.13.0",
+		"sass-loader": "^4.0.2",
+		"style-loader": "^0.13.1",
+		"webpack": "2.1.0-beta.25",
+		"webpack-dev-server": "^1.16.2"
+	},
+	"dependencies": {
+		"image-webpack-loader": "^3.1.0"
+	}
+}
